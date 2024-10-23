@@ -1,14 +1,24 @@
+html {
+    margin: 9px;
+    padding: 9px;
+}
 body{
-    
-    color: black; 
-    background-color: grey; 
+    background-color: Lavender; 
     }
 h1{
-    color: red; 
+    color:darkred ; 
+    font-family: times-new-roman;
 }
 h2{ 
-color: yellow; 
+
+    color: indianred; 
+    font-family:times-new-roman;
 } 
 h3{
-    color: orange;
+    color: firebrick;
+    font-family: times-new-roman;
+}
+p{
+    color: maroon;
+    font-family: georgia ;
 }
